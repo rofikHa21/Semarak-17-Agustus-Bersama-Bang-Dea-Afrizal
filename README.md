@@ -11,7 +11,7 @@ Jelaskan Filosfi website anda yang anda buat, dengan sebaik mungkin.
 | **Tema**       | : | Peristiwa Sebelum Proklamasi Kemerdekaan |
 | **Category**    | : | Desain Website                 |
 | **Animasi Digunakan** | : | None |
-| **Font Digunakan** | : | Ex. [Roboto](https://fonts.google.com/specimen/Pacifico) |
+| **Font Digunakan** | : | [Pacifico](https://fonts.google.com/specimen/Pacifico) |
 | **Referensi** | : | Sendiri
 
 *Note: Nama Author harus di cantum di salah satu di file project, untuk mendapatkan userId discord bisa ke #main-cmd dan ketik `/userinfo <NamaDiscordAnda>`
